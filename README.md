@@ -6,6 +6,6 @@ This may include stuffs on web performance, css, javascript, accessibility, reac
 #### Golang
 Resource: [The go programming language](https://www.gopl.io/)
 - I learnt about the short hand variable declaration in go (`i := "some value"`)
-- The os package. With thiss you can get the list of arguments from the command line using `os.Args`
+- The os package. With this you can get the list of arguments from the command line using `os.Args`
 - The range method. Applied to `os.Args`, you'll get `index` and `value`.
 - A cool one from the strings package(`strings.Join`). Short and precise :)
