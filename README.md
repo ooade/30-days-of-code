@@ -14,3 +14,4 @@ Resource: [The go programming language](https://www.gopl.io/)
 Resource: [What is first input delay](https://bitsofco.de/what-is-first-input-delay/)
 - Hot one from Ire. FID metric is like the intersection between FCP(The time content starts to show on the webpage) and FMP(The time you have meaningful content on the page).
 - It's more like the time one will be able to use form inputs on the page.
+- The library; [FID](https://github.com/GoogleChromeLabs/first-input-delay) - used for deriving FID perf metrics.
