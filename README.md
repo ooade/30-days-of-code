@@ -15,3 +15,10 @@ Resource: [What is first input delay](https://bitsofco.de/what-is-first-input-de
 - Hot one from Ire. FID metric is like the intersection between FCP(The time content starts to show on the webpage) and FMP(The time you have meaningful content on the page).
 - It's more like the time one will be able to use form inputs on the page.
 - The library; [FID](https://github.com/GoogleChromeLabs/first-input-delay) - used for deriving FID perf metrics.
+
+#### Chrome Dev Summit Highlight
+Resource: [Highlights from Chrome Dev Summit 2018](https://bitsofco.de/chrome-dev-summit-2018/)
+- [Squoosh](https://squoosh.app/) - A 15kb JS-powered web application.
+- Page Speed. I was only aware of lighthouse.
+- Native lazyloading in Chrome. Yeah, Chrome is finally supporting this using the scroll to load method.
+- Portal - Seemless Navigation transitions like native applications. It really is a nice prosposal.
