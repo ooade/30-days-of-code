@@ -31,3 +31,9 @@ Resource: [The go programming language](https://www.gopl.io/)
 - The map function; a key-value pair data structure.
 - The make function, which seem to define how the map function would be; will be explained in a later chapter.
 - fmt.Printf; Although, it's the same as in C, but just found out it's also available in go.
+
+#### React Internals
+Resource: [How react tells a class from a function](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
+- I learnt it adds isReactComponent to React Component's prototype to achieve this.
+- The error it gives out if one do not extend React Component, and how it knows it should extend it. That is, checking if a render function exists.
+- Several other ways one might want to approach checking the two.
