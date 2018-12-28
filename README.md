@@ -22,3 +22,12 @@ Resource: [Highlights from Chrome Dev Summit 2018](https://bitsofco.de/chrome-de
 - Page Speed. I was only aware of lighthouse.
 - Native lazyloading in Chrome. Yeah, Chrome is finally supporting this using the scroll to load method.
 - Portal - Seemless Navigation transitions like native applications. It really is a nice prosposal.
+
+
+### 28/12/2018
+#### Golang
+Resource: [The go programming language](https://www.gopl.io/)
+- I learnt about the bufio package. Providing seamless way to read inputs from the os stdin.
+- The map function; a key-value pair data structure.
+- The make function, which seem to define how the map function would be; will be explained in a later chapter.
+- fmt.Printf; Although, it's the same as in C, but just found out it's also available in go.
