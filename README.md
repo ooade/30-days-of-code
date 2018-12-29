@@ -37,3 +37,14 @@ Resource: [How react tells a class from a function](https://overreacted.io/how-d
 - I learnt it adds isReactComponent to React Component's prototype to achieve this.
 - The error it gives out if one do not extend React Component, and how it knows it should extend it. That is, checking if a render function exists.
 - Several other ways one might want to approach checking the two.
+
+#### Performance
+Resource: [Understanding the critical rendering path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+- I learnt about the various CRP stages.
+- I learnt a little bit about CSSOM.
+
+#### Javascript
+Resource: [Web workers vs Service Workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/)
+- I already knew what web workers and service workers are, and how they work. Worklet was a new thing to me here.
+- With worklet, you can hook into the various part of the rendering process and add some custom style or something.
+- I learnt about the paint worklet, and there are others like the layout worklet and the animation worklet.
