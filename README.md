@@ -60,3 +60,5 @@ Resource: [Why and how to use webp images today](https://bitsofco.de/why-and-how
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - Go can return multiple results. It literally blew my mind.
+- Modules (math/rand, math/complex). They'll still be written as rand.Method and complex.Method.
+- Type conversion. int(3.39), and so on.
