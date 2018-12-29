@@ -48,3 +48,15 @@ Resource: [Web workers vs Service Workers vs Worklets](https://bitsofco.de/web-w
 - I already knew what web workers and service workers are, and how they work. Worklet was a new thing to me here.
 - With worklet, you can hook into the various part of the rendering process and add some custom style or something.
 - I learnt about the paint worklet, and there are others like the layout worklet and the animation worklet.
+
+### Day 3: 29/12/2018
+#### Performance
+Resource: [Why and how to use webp images today](https://bitsofco.de/why-and-how-to-use-webp-images-today/)
+- Webp images are awesome. Supports lossless and lossy compressions, can be animated, and supports transparency.
+- It was created by Google.
+- It's supported in over 70% of browsers today.
+- Squoosh can also convert to webp.
+
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Go can return multiple results. It literally blew my mind.
