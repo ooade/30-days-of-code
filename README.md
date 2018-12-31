@@ -68,3 +68,4 @@ Resource: [Go lang Tour](https://tour.golang.org)
 Resource: [Go lang Tour](https://tour.golang.org)
 - The newton's method for solving sqrt `z -= (z * z - x) / (2 * z)`
 - Switch statements in Go do not require a break.
+- The [time package](https://golang.org/pkg/time/). `time.Now()`, `time.Now().Weekday()` and so on...
