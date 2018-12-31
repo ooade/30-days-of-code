@@ -71,3 +71,4 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - The [time package](https://golang.org/pkg/time/). `time.Now()`, `time.Now().Weekday()` and so on...
 - A switch statement may take no conditions :)
 - The `defer` statement. Cool one!!!!!!
+- Stacking defer statements. Like in a loop. The last value shows off before the first :( :)
