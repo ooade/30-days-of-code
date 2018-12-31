@@ -67,3 +67,4 @@ Resource: [Go lang Tour](https://tour.golang.org)
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - The newton's method for solving sqrt `z -= (z * z - x) / (2 * z)`
+- Switch statements in Go do not require a break.
