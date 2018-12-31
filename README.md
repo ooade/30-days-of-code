@@ -62,3 +62,8 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - Go can return multiple results. It literally blew my mind.
 - Modules (math/rand, math/complex). They'll still be written as rand.Method and complex.Method.
 - Type conversion. int(3.39), and so on.
+
+### Day 4: 31/12/2018
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- The newton's method for solving sqrt `z -= (z * z - x) / (2 * z)`
