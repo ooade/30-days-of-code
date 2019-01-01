@@ -77,3 +77,8 @@ Resource: [Go lang Tour](https://tour.golang.org)
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - Pointers: Almost the same as C. Type can also be a pointer type, like `*int`.
+- Struct. Almost also like the one in C. Except that using the struct here is different.
+More like:
+```go
+StructName{Set of Values}
+```
