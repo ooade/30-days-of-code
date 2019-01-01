@@ -82,3 +82,6 @@ More like:
 ```go
 StructName{Set of Values}
 ```
+- Arrays. 
+- Slices - Using colons to specify the low and high bound.
+- Length `len`, and Capacity `cap` in slices.
