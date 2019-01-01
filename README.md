@@ -72,3 +72,8 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - A switch statement may take no conditions :)
 - The `defer` statement. Cool one!!!!!!
 - Stacking defer statements. Like in a loop. The last value shows off before the first :( :)
+
+### Day 5: 1/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Pointers: Almost the same as C. Type can also be a pointer type, like `*int`.
