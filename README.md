@@ -92,6 +92,11 @@ Resource: [Using a headless browser to capture page screenshots](https://bitsofc
 
 ### Day 6: 2/1/2019
 #### Javascript
+Resource: [10 Interview questions every javascript developer should know]https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 - Relearnt [OOLO and Prototype design pattern](https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern).
 - Relearnt what first class functions are. Functions in javascripts are said to be first class functions because they are treated like other variables.
 - Relearnt [anonymous functions and lambdas](https://gist.github.com/ericelliott/414be9be82128443f6df). BTW, lambas are functions used as data.
+- Favoring object composition over class inheritance; Avoids tight coupling, class hierachies, and rigid taxonomy(forced is-a relationship). Gorilla banana problem too :)
+- Relearnt one-way data binding(as done in React/Redux) as opposed to two-way data binding(Angular). One-way data binding are deterministic.
+- Monolithic vs Microservices; Sigh. Monolithic is like having the whole codebase as one unit, sharing same memory space and resources. Microservices: seperate servers handling unique jobs.
+- Async Javascript: Sync blocks the thread until the resource is returned as opposed to async.
