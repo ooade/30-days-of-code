@@ -94,3 +94,4 @@ Resource: [Using a headless browser to capture page screenshots](https://bitsofc
 #### Javascript
 - Relearnt [OOLO and Prototype design pattern](https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern).
 - Relearnt what first class functions are. Functions in javascripts are said to be first class functions because they are treated like other variables.
+- Relearnt [anonymous functions and lambdas](https://gist.github.com/ericelliott/414be9be82128443f6df). BTW, lambas are functions used as data.
