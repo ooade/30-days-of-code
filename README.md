@@ -100,3 +100,8 @@ Resource: [10 Interview questions every javascript developer should know]https:/
 - Relearnt one-way data binding(as done in React/Redux) as opposed to two-way data binding(Angular). One-way data binding are deterministic.
 - Monolithic vs Microservices; Sigh. Monolithic is like having the whole codebase as one unit, sharing same memory space and resources. Microservices: seperate servers handling unique jobs.
 - Async Javascript: Sync blocks the thread until the resource is returned as opposed to async.
+
+
+#### Golang
+Resource: Resource: [Go lang Tour](https://tour.golang.org)
+- Creating a slice with make. I actually don't know why you'd prefer this method except explicitly providing the length and capacity of the slice respectively in the `make` function
