@@ -85,3 +85,7 @@ StructName{Set of Values}
 - Arrays. 
 - Slices - Using colons to specify the low and high bound.
 - Length `len`, and Capacity `cap` in slices.
+
+#### Fun stuff
+Resource: [Using a headless browser to capture page screenshots](https://bitsofco.de/using-a-headless-browser-to-capture-page-screenshots/)
+- I got to learn about puppeteer, even while I think that `browser.newPage` is a bad API design as opposed to `browser.newTab`.
