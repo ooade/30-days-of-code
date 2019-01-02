@@ -89,3 +89,7 @@ StructName{Set of Values}
 #### Fun stuff
 Resource: [Using a headless browser to capture page screenshots](https://bitsofco.de/using-a-headless-browser-to-capture-page-screenshots/)
 - I got to learn about puppeteer, even while I think that `browser.newPage` is a bad API design as opposed to `browser.newTab`.
+
+### Day 6: 2/1/2019
+#### Javascript
+- Relearnt [OOLO and Prototype design pattern](https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern).
