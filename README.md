@@ -93,3 +93,4 @@ Resource: [Using a headless browser to capture page screenshots](https://bitsofc
 ### Day 6: 2/1/2019
 #### Javascript
 - Relearnt [OOLO and Prototype design pattern](https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern).
+- Relearnt what first class functions are. Functions in javascripts are said to be first class functions because they are treated like other variables.
