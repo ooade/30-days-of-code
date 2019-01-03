@@ -103,5 +103,11 @@ Resource: [10 Interview questions every javascript developer should know]https:/
 
 
 #### Golang
-Resource: Resource: [Go lang Tour](https://tour.golang.org)
+Resource: [Go lang Tour](https://tour.golang.org)
 - Creating a slice with make. I actually don't know why you'd prefer this method except explicitly providing the length and capacity of the slice respectively in the `make` function
+
+### Day 7: 3/1/2019
+#### Javascript
+Resource: [What exactly is the DOM](https://bitsofco.de/what-exactly-is-the-dom/)
+- The combination of the DOM and CSSOM forms the render tree.
+- The DOM doesn't include psuedo-elements.
