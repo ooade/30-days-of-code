@@ -111,3 +111,7 @@ Resource: [Go lang Tour](https://tour.golang.org)
 Resource: [What exactly is the DOM](https://bitsofco.de/what-exactly-is-the-dom/)
 - The combination of the DOM and CSSOM forms the render tree.
 - The DOM doesn't include psuedo-elements.
+
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- I did the slice exercise and also joined folks in posting the [solution](https://gist.github.com/tetsuok/2280162#gistcomment-928498) :sweat_smile:
