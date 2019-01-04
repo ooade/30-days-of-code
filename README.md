@@ -129,4 +129,17 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - I solved the Maps exercise using what I had learnt previously (make, map, strings.Field, for, if).
 - Function as values.
 - Function closures. I played around with this for a while. Created 3 nested FoF :zap:
+- Fabonacci Exercise
+```go
+  func fibonacci() func() int {
+    a, b := 0, 1
 
+    return func() int {
+      defer func() {
+        a, b = a + b, a
+      }()
+
+      return a
+    }
+  }
+```
