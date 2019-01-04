@@ -115,3 +115,8 @@ Resource: [What exactly is the DOM](https://bitsofco.de/what-exactly-is-the-dom/
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - I did the slice exercise and also joined folks in posting the [solution](https://gist.github.com/tetsuok/2280162#gistcomment-928498) :sweat_smile:
+
+### Day 8: 4/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Map and make map :)
