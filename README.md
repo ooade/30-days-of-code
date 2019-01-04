@@ -143,3 +143,7 @@ Resource: [Go lang Tour](https://tour.golang.org)
     }
   }
 ```
+
+#### GIT Hacks
+Resource: [GIT aliases for lazy developers](https://bitsofco.de/git-aliases-for-lazy-developers/)
+- I set up some aliases on my fish terminal using `alias` command and `funcsave`
