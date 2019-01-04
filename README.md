@@ -127,3 +127,6 @@ Resource: [Go lang Tour](https://tour.golang.org)
 ```
 - `string.Fields` to split string into fields, like javascript `String.prototype.split`.
 - I solved the Maps exercise using what I had learnt previously (make, map, strings.Field, for, if).
+- Function as values.
+- Function closures. I played around with this for a while. Created 3 nested FoF :zap:
+
