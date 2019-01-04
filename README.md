@@ -120,3 +120,4 @@ Resource: [Go lang Tour](https://tour.golang.org)
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - Map and make map :)
+- Map literals
