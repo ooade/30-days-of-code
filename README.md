@@ -161,4 +161,4 @@ Resource: [Go lang Tour](https://tour.golang.org)
 Resource: [An Introduction and guide to the css object model](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom)
 - Read only `window.getComputedStyle(elementSelector, ?pseudoElement)`
 - Getting the style property off an elementSelector. As in: `document.body.style.backgroundColor`. I.e if previously declared as style.
-- Or getting it via `document.body.getPropertyValue(property)` and `document.body.setProperty(property, value)`.
+- Or getting it via `document.body.style.getPropertyValue(property)` and `document.body.style.setProperty(property, value)`.
