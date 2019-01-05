@@ -168,3 +168,7 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 - The CSSStyleSheet Interface.
 - Types in CSSRules. Yeah, freaking awesome. Type 1 specifies styles, `IMPORT_RULE (3), MEDIA_RULE (4), KEYFRAMES_RULE (7)`. The rest can be gotten [here](https://developer.mozilla.org/en-US/docs/Web/API/CSSRule#Type_constants).
 - Get `conditionText` from type `4 (MEDIA RULE)` of `cssRules`
+- Values can be set to the `cssRules`.
+- More and more types were discussed with various way of getting values.
+- InsertRule. `document.styleSheets[0].insertRule(string of rule, where it should be added, defaults to 0)`.
+- DeleteRule. `document.styleSheets[0].deleteRule(index)`.
