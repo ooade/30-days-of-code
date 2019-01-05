@@ -162,3 +162,5 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 - Read only `window.getComputedStyle(elementSelector, ?pseudoElement)`
 - Getting the style property off an elementSelector. As in: `document.body.style.backgroundColor`. I.e if previously declared as style.
 - Or getting it via `document.body.style.getPropertyValue(property)` and `document.body.style.setProperty(property, value)`.
+- `....style.removeProperty(propertyName)`.
+- `....style.item(index)`. I don't see how much this is relevant tho :(
