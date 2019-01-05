@@ -166,3 +166,4 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 - `....style.item(index)`. I don't see how much this is relevant tho :(
 - `....style.getPropertyPriority` - To see if the property has the important flag.
 - The CSSStyleSheet Interface.
+- Types in CSSRules. Yeah, freaking awesome. Type 1 specifies styles, `IMPORT_RULE (3), MEDIA_RULE (4), KEYFRAMES_RULE (7)`. The rest can be gotten [here](https://developer.mozilla.org/en-US/docs/Web/API/CSSRule#Type_constants).
