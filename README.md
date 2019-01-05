@@ -148,7 +148,7 @@ Resource: [Go lang Tour](https://tour.golang.org)
 Resource: [GIT aliases for lazy developers](https://bitsofco.de/git-aliases-for-lazy-developers/)
 - I set up some aliases on my fish terminal using `alias` command and `funcsave`
 
-### Day 8: 4/1/2019
+### Day 8: 5/1/2019
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - Methods in go. Methods are functions with a receiver argument.
