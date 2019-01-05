@@ -164,3 +164,5 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 - Or getting it via `document.body.style.getPropertyValue(property)` and `document.body.style.setProperty(property, value)`.
 - `....style.removeProperty(propertyName)`.
 - `....style.item(index)`. I don't see how much this is relevant tho :(
+- `....style.getPropertyPriority` - To see if the property has the important flag.
+- The CSSStyleSheet Interface.
