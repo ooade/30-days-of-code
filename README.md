@@ -172,3 +172,10 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 - More and more types were discussed with various way of getting values.
 - InsertRule. `document.styleSheets[0].insertRule(string of rule, where it should be added, defaults to 0)`.
 - DeleteRule. `document.styleSheets[0].deleteRule(index)`.
+
+
+### Day 9: 6/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Nil interface values.
+- Empty interfaces. Holds values of unknown types.
