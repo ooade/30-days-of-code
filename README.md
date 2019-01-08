@@ -187,3 +187,39 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - Type assertions. `t := i.(T)`
 - Type switches. Respond differently based on the type.
 - Stringers. Nice way to format an output based on an interface
+
+
+### Day 11: 8/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Did the Stringer exercise. It all makes sense now
+```go
+package main
+
+import (
+	"fmt" 
+	"strings"
+	)
+
+type IPAddr [4]byte
+
+func (ip IPAddr) String() string {
+	r := make([]string, len(ip))
+
+	for i, val := range ip {
+		r[i] = fmt.Sprintf("%v", int(val))
+	}
+
+	return strings.Join(r, ".")
+}
+
+func main() {
+	hosts := map[string]IPAddr{
+		"loopback":  {127, 0, 0, 1},
+		"googleDNS": {8, 8, 8, 8},
+	}
+	for name, ip := range hosts {
+		fmt.Printf("%v: %v\n", name, ip)
+	}
+}
+```
