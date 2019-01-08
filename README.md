@@ -223,3 +223,5 @@ func main() {
 	}
 }
 ```
+
+- Errors, and its interface.
