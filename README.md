@@ -179,3 +179,11 @@ Resource: [An Introduction and guide to the css object model](https://css-tricks
 Resource: [Go lang Tour](https://tour.golang.org)
 - Nil interface values.
 - Empty interfaces. Holds values of unknown types.
+
+
+### Day 10: 7/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Type assertions. `t := i.(T)`
+- Type switches. Respond differently based on the type.
+- Stringers. Nice way to format an output based on an interface
