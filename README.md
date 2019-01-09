@@ -254,3 +254,15 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - Learnt about Readers in go lang.
 - `strings.NewReader(some text)`.
 - io.EOF
+- I did the Readers exercise
+```go
+type MyReader struct{}
+
+func(MyReader) Read(b []byte) (int, error) {
+	for i := range b {
+		b[i] = 'A'
+	}
+
+	return len(b), nil
+}
+```
