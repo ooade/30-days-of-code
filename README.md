@@ -247,3 +247,10 @@ func Sqrt(x float64) (float64, error) {
 	return z, nil;
 }
 ```
+
+### Day 12: 9/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Learnt about Readers in go lang.
+- `strings.NewReader(some text)`.
+- io.EOF
