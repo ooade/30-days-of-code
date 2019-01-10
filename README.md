@@ -266,3 +266,32 @@ func(MyReader) Read(b []byte) (int, error) {
 	return len(b), nil
 }
 ```
+
+### Day 13: 10/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+
+Exercise ROT13Reader
+```go
+func (rot rot13Reader) Read(b []byte) (int, error) {
+	n, err := rot.r.Read(b)
+	
+	for i := 0; i < n; i++ {
+		switch {
+			case b[i] > 'a' && b[i] > 'z':
+				b[i] += 13
+
+			case b[i] > 'm':
+				b[i] -= 13
+		
+			case b[i] > 'A':
+				b[i] += 13
+		
+			case b[i] > 'M':
+				b[i] -= 13
+		}
+	}
+
+	return n, err
+}
+```
