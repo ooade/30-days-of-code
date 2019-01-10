@@ -271,7 +271,7 @@ func(MyReader) Read(b []byte) (int, error) {
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 
-Exercise ROT13Reader
+- Exercise ROT13Reader
 ```go
 func (rot rot13Reader) Read(b []byte) (int, error) {
 	n, err := rot.r.Read(b)
@@ -295,3 +295,4 @@ func (rot rot13Reader) Read(b []byte) (int, error) {
 	return n, err
 }
 ```
+- Images in go lang.
