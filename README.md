@@ -296,3 +296,39 @@ func (rot rot13Reader) Read(b []byte) (int, error) {
 }
 ```
 - Images in go lang.
+
+
+### Day 14: 11/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+
+- Exercise: Images
+```go
+import (
+	"golang.org/x/tour/pic"
+	"image"
+	"image/color"
+)
+
+type Image struct{
+	width, height, color int
+}
+
+func (i Image) ColorModel() color.Model {
+	return color.RGBAModel
+}
+
+func (i Image) Bounds() image.Rectangle {
+	return image.Rect(0, 0, i.width, i.height)
+}
+
+func (i Image) At(x, y int) color.Color {
+	return color.RGBA{uint8(i.color + x), uint8(i.color + y), 255, 255}
+}
+
+func main() {
+	m := Image{100, 100, 150}
+	pic.ShowImage(m)
+}
+
+```
