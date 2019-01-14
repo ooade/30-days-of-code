@@ -332,3 +332,10 @@ func main() {
 }
 
 ```
+
+### Day 15: 14/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Goroutines - A lightweight thread managed by the go runtime.
+- Channels.
+- Buffered Channels.
