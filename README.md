@@ -339,3 +339,9 @@ Resource: [Go lang Tour](https://tour.golang.org)
 - Goroutines - A lightweight thread managed by the go runtime.
 - Channels.
 - Buffered Channels.
+
+
+### Day 16: 18/1/2019
+#### Golang
+Resource: [Go lang Tour](https://tour.golang.org)
+- Range and Close. Closing a channel as to indicate that no more value is being sent.
