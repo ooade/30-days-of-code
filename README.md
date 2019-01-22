@@ -354,3 +354,10 @@ Resource: [CSS Environment variables](https://bitsofco.de/css-environment-variab
 ### HTML
 Resource: [How and when to use tabindex attribute](https://bitsofco.de/how-and-when-to-use-the-tabindex-attribute/)
 - tabindex specifies at what point the focus would be needed. The attribute takes in a number, negative or positive. Negative index doesn't get focused ones the tab key is pressed. 0 index is default
+
+### Golang
+Resource: [The go programming language](https://www.gopl.io/)
+- Note: I shouldn't have left using this book. It's really awesome. Although, I learnt a lot in the [Go lang Tour](https://tour.golang.org) rosource by Google. It still wasn't enough as it got complicated for me solving the Tree exercise :sweat_smile:
+- I'm back to using the book (of course). I didn't notice the first section was a primer into golang and was actually going to explain the concepts in subsequent chapters. I was able to comprehend continuing this as a result of my experience with the Golang tour.
+- Animated Gifs in Go lang.
+- Lissajous figures.
