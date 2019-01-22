@@ -345,3 +345,12 @@ Resource: [Go lang Tour](https://tour.golang.org)
 #### Golang
 Resource: [Go lang Tour](https://tour.golang.org)
 - Range and Close. Closing a channel as to indicate that no more value is being sent.
+
+### Day 17: 22/1/2019
+#### CSS
+Resource: [CSS Environment variables](https://bitsofco.de/css-environment-variables/)
+- :root and variables(--variable-name: value), to be used later
+
+### HTML
+Resource: [How and when to use tabindex attribute](https://bitsofco.de/how-and-when-to-use-the-tabindex-attribute/)
+- tabindex specifies at what point the focus would be needed. The attribute takes in a number, negative or positive. Negative index doesn't get focused ones the tab key is pressed. 0 index is default
