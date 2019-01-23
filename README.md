@@ -361,3 +361,8 @@ Resource: [The go programming language](https://www.gopl.io/)
 - I'm back to using the book (of course). I didn't notice the first section was a primer into golang and was actually going to explain the concepts in subsequent chapters. I was able to comprehend continuing this as a result of my experience with the Golang tour.
 - Animated Gifs in Go lang.
 - Lissajous figures.
+
+### Day 18: 23/1/2019
+#### Shadow DOM
+Resource: [What is Shadow DOM](https://bitsofco.de/what-is-the-shadow-dom/)
+- I knew what it was but never got the chance to see it in action or even read about it.
