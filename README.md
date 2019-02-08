@@ -366,3 +366,7 @@ Resource: [The go programming language](https://www.gopl.io/)
 #### Shadow DOM
 Resource: [What is Shadow DOM](https://bitsofco.de/what-is-the-shadow-dom/)
 - I knew what it was but never got the chance to see it in action or even read about it.
+
+
+### Day 19 and beyond!
+I started this to get back to my feet. I'm back!!!!!!!
